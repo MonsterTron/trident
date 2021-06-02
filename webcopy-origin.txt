@@ -1,0 +1,28 @@
+Uri: https://martianswap.finance/
+File Name: C:\Downloaded Web Sites\martianswap.finance\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Kanit:wght@400;600&display=swap
+File Name: C:\Downloaded Web Sites\martianswap.finance\css2.css
+Content Type: text/css
+
+Uri: https://martianswap.finance/favicon.ico
+File Name: C:\Downloaded Web Sites\martianswap.finance\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://martianswap.finance/logo.png
+File Name: C:\Downloaded Web Sites\martianswap.finance\logo.png
+Content Type: image/png
+
+Uri: https://martianswap.finance/manifest.json
+File Name: C:\Downloaded Web Sites\martianswap.finance\manifest.json
+Content Type: application/json
+
+Uri: https://martianswap.finance/static/js/6.0483f0ab.chunk.js
+File Name: C:\Downloaded Web Sites\martianswap.finance\static\js\6.0483f0ab.chunk.js
+Content Type: application/x-javascript
+
+Uri: https://martianswap.finance/static/js/main.22b69c9c.chunk.js
+File Name: C:\Downloaded Web Sites\martianswap.finance\static\js\main.22b69c9c.chunk.js
+Content Type: application/x-javascript
+
